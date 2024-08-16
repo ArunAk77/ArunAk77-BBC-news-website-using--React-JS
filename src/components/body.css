@@ -1,0 +1,51 @@
+.col1,.col2,.col3{
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    border-radius: 10px;
+    color: black;
+    border: 2px solid black;
+    background-image: url(https://c1.wallpaperflare.com/preview/1021/862/549/newspaper-le-monde-background-old.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.colC{
+    background-image: url(https://c1.wallpaperflare.com/preview/296/833/255/newspaper-black-and-white-recording-wallpapper.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-attachment: fixed; */
+    padding: 10px;
+    border-radius: 10px;
+    color: black;
+    border: 2px solid black;
+}
+button{
+    background-color: #000000;
+    padding: 10px 25px;
+    color: white;
+    scale: 0.9;
+    transition: all 0.5s;
+    margin: 4px;
+  }
+  button:hover{
+    scale: 1;
+    transition: all 0.5s;
+    color: red;
+    box-shadow: -2px 4px 4px white;
+  }
+#vid{
+    width: 450px;
+    height: 300px;
+  }
+  #vid2{
+    width: 354px;
+    height: 200px;
+  }
+  h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bolder;
+  }
+  h5{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+  }

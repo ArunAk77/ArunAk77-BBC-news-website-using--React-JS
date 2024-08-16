@@ -1,0 +1,11 @@
+#top{
+    color: white;
+}
+#top:hover{
+    color: red;
+    transition: all 0.5s;
+}
+/*-----------------Nav Bar Style-------------------*/
+#navbarScrollingDropdown{
+    color: red;
+}

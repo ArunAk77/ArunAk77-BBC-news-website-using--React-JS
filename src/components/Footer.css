@@ -1,0 +1,35 @@
+.footer {
+    background-color: #343a40;
+    color: #ffffff;
+  }
+  
+  .footer h5 {
+    margin-bottom: 1rem;
+    font-weight: bold;
+  }
+  
+  .footer p {
+    font-size: 0.9rem;
+  }
+  
+  .footer ul {
+    padding-left: 0;
+    list-style: none;
+  }
+  
+  .footer ul li a {
+    color: #ffffff;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  .footer ul li a:hover {
+    color: #d3d3d3;
+  }
+  
+  .footer .text-center {
+    margin-top: 1rem;
+    border-top: 1px solid #777;
+    padding-top: 1rem;
+  }
+  
